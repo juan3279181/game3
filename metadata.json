@@ -1,6 +1,0 @@
-{
-  "name": "FollowMe",
-  "description": "Social growth community with real-time Firebase Cloud sync to get real followers, views and likes, earn coins with tasks and ads, and purchase coin packs via PayPal.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
